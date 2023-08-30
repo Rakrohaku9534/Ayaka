@@ -23,8 +23,8 @@ handler.all = async function (m) {
         
 		// Ini untuk command crator/owner
 	global.kontak2 = [
-	[owner[0], await conn.getName(owner[0] + '6283861760785@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'shendy1908@gmail.com', true],
-	[owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'shendy1908@gmail.com', true], ]
+	[owner[0], await conn.getName(owner[0] + '6285786539008@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'rakrohaku@gmail.com', true],
+	[owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'rakrohaku@gmail.com', true], ]
         
 		// ucapan ini mah
 		
@@ -240,7 +240,7 @@ handler.all = async function (m) {
 			},
 			message: {
 				groupInviteMessage: {
-					groupJid: "17608914335-1625305606@g.us",
+					groupJid: "6281575769352-1627865417@g.us",
 					inviteCode: null,
 					groupName: wm,
 					caption: "👋 Hay Kak :> " + name,
