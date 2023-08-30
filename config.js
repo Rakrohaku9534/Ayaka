@@ -45,7 +45,7 @@ const readMore = more.repeat(4001)
 global.sig = 'https://instagram.com/fahrul_mt'
 global.tautanwa = 'https://wa.me/6285786539008/'
 global.sgh = 'https://github.com/Rakrohaku9534' //github
-global.sgc = 'https://chat.whatsapp.com/KCKmFhPhSzV1zmTys8mmrT'  //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/FSbrP6LWWm4A8i8uGdyDTs'  //group whatsapp
 global.sdc = '-' //discord
 global.linkyt = 'https://youtube.com/@fahrul'
 global.syt = 'https://youtube.com/@fahrul'
@@ -83,7 +83,7 @@ global.readMore = readMore
 global.wm = '                「 Ayaka 」 '
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ Ayaka ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = `⫹⫺ Ayaka`
-global.packname = 'Created By'
+global.packname = '© fahrul'
 global.watermark = namabot
 global.titlebot = `Ayaka`
 global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ッ'
@@ -92,7 +92,7 @@ global.footer = 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ッ'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.stickpack = 'Made by'
-global.stickauth = `⫹⫺ Okta`
+global.stickauth = `⫹⫺ fahrul`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -111,17 +111,17 @@ global.intro = 'https://telegra.ph/file/740538bd8f8af8aa68068.jpg'
 
 global.Linkgc = 'Bentar'
 global.lynk = '-'
-global.ig = 'https://instagram.com/oktaofcrill'
+global.ig = 'https://instagram.com/fahrul_mt'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '085731947500'//pasang no lo sinih buat donasi 
+global.pdana = '085786539008'//pasang no lo sinih buat donasi 
 global.povo = '-' 
-global.pgopay = '085749543572'
+global.pgopay = '085786539008'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085749543572' // Pulsa indosat
-global.ppulsa2 = '085731947500' // Pulsa axis 
-global.psaweria = 'https://saweria.co.id/oktakc'
+global.ppulsa = '085786539008' // Pulsa indosat
+global.ppulsa2 = '085786539008' // Pulsa axis 
+global.psaweria = 'https://saweria.co.id/fahrul'
 global.donasikabul = 'Gadaa'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -240,14 +240,14 @@ global.rpg = {
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WEBSITE APIKEY ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.zenzkey = 'b8040941f7'
-global.lolkey = 'SGWN'
-global.lann = 'shendy' 
+global.zenzkey = 'zenzkey_8378505152'
+global.lolkey = '9ec9ae4576890debb36e2db0'
+global.lann = 'chuDEfcB' 
 global.rose = 'Rs-Danil_Elistz'
   //'292e8d36a318282908bd07f7' // PUNYA WAHID 357d3c85079c4e0818731e6b
 // Cdgn Lolkey ed78c137a46873c5b8e5fe3b
 global.botcahx = 'df09e048'
-global.zahwazein = 'zenzkey_ff2b97149f'
+global.zahwazein = 'zenzkey_8378505152'
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -283,7 +283,7 @@ global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'HIRO',
   'https://anabotofc.herokuapp.com/': 'AnaBot',
-  'https://api.lolhuman.xyz': 'e54205a4ca2caa368cc067bb',// 8e66d0934cf741bfd2182c16
+  'https://api.lolhuman.xyz': '9ec9ae4576890debb36e2db0',// 8e66d0934cf741bfd2182c16
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
@@ -323,9 +323,9 @@ global.thumb = fp
 global.dbnya = `sessions/database.json`
 global.sesinya = `sessions/QueensBotz -MD`
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://instagram.com/oktaofcrill"
+global.urlnya = "https://instagram.com/fahrul_mt"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6285731947500'
+global.phn = '6285786539008'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
